@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "287387601978",
+    "firebase_url": "https://moments-62feb.firebaseio.com",
+    "project_id": "moments-62feb",
+    "storage_bucket": "moments-62feb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287387601978:android:5d4cd2af4bd2f399",
+        "android_client_info": {
+          "package_name": "com.britannio.moments"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287387601978-pbfm1ire0ehge09roeub6c374o727fu1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.britannio.moments",
+            "certificate_hash": "c1f2e5c269023cd3f955971603184321daf5e21d"
+          }
+        },
+        {
+          "client_id": "287387601978-sk4oqv37p3br96p7emirh1oalhanjrsp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFqH9UthU6Y1gd1PKFcRV2I6Ylsyvzdo8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287387601978-sk4oqv37p3br96p7emirh1oalhanjrsp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
